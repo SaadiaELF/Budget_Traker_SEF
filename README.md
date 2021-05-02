@@ -63,6 +63,6 @@ This programming language is used to create :
 ## URLs
 
 * The URL of the GitHub repository: https://github.com/SaadiaELF/Budget_Traker_SEF.git
-* The URL of the deployed application : https://https://budget-tracker-sef.herokuapp.com/
+* The URL of the deployed application : https://budget-tracker-sef.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------

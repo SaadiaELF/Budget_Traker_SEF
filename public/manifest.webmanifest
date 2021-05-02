@@ -1,0 +1,23 @@
+{
+  "name": "Budget Tracker App",
+  "short_name": "BT  App",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An application to track budget",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "452x452",
+      "type": "image/png"
+    },
+      {
+      "src": "icons/icon-192x192.png",
+      "sizes": "169x169",
+      "type": "image/png"
+    }
+  ]
+}
